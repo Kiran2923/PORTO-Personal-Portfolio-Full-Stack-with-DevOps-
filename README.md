@@ -1,5 +1,6 @@
 # PORTO-Personal-Portfolio-Full-Stack-with-DevOps-
 Duration: Feb 2024 – Dec 2024
+
 Technologies: HTML, CSS, JavaScript, Docker, Jenkins, GitHub
 
 
