@@ -3,6 +3,8 @@ Duration: Feb 2024 – Dec 2024
 
 Technologies: HTML, CSS, JavaScript, Docker, Jenkins, GitHub
 
+PORTO is a modern and responsive portfolio website built to showcase your skills, certifications, and personal projects. The project goes beyond front-end development by integrating DevOps tools for continuous deployment and containerized environments.
+
 1.Created a personal portfolio website showcasing skills, projects, and resume.
 
 2.Frontend built with HTML, CSS, JavaScript; clean UI/UX.
